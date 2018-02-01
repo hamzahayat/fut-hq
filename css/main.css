@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+    background-image: url('../img/splash_screen-03.png');
+    background-size:100%;
+    opacity: 0%;
+}
+.ui-page {
+    background: transparent;
+}
+.ui-content{
+    background: transparent;
+}
+#login{
+    position: fixed;
+}
+.nd2-card{
+    background: white;
+}
